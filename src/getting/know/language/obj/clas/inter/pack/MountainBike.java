@@ -1,4 +1,4 @@
 package getting.know.language.obj.clas.inter.pack;
 
-public class MountainBike extends Bicycle{
+public class MountainBike extends ACMEBicycle {
 }

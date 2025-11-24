@@ -5,8 +5,8 @@ public class BicycleDemo {
 
         // Create two different
         // Bicycle objects
-        Bicycle bike1 = new Bicycle();
-        Bicycle bike2 = new Bicycle();
+        ACMEBicycle bike1 = new ACMEBicycle();
+        ACMEBicycle bike2 = new ACMEBicycle();
 
         // Invoke methods on
         //those objects
